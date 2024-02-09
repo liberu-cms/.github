@@ -1,5 +1,5 @@
 ### Description
-Liberu Content Management System is an advanced and comprehensive Content Management System software solution currently in development using Laravel 10, PHP 8.2, Nuxt 3, Vue 3, Vuetify and TypeScript, poised to revolutionize the way businesses manage their financial operations. This state-of-the-art software is designed to meet the diverse needs of businesses across various industries, providing a seamless and efficient Content Management System experience.
+Liberu Content Management System is an advanced and comprehensive Content Management System software solution currently in development using Laravel 11 and PHP 8.3, Filament 3.2 and Livewire 3, poised to revolutionize the way businesses manage their financial operations. This state-of-the-art software is designed to meet the diverse needs of businesses across various industries, providing a seamless and efficient Content Management System experience.
 
 ## Our Projects
 
