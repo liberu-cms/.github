@@ -1,25 +1,27 @@
 ### Description
 Liberu Content Management System is an advanced and comprehensive Content Management System software solution currently in development using Laravel 11 and PHP 8.3, Filament 3.2 and Livewire 3, poised to revolutionize the way businesses manage their financial operations. This state-of-the-art software is designed to meet the diverse needs of businesses across various industries, providing a seamless and efficient Content Management System experience.
 
+### Licensed under MIT, use for any personal or commercial project.
+
 ## Our Projects
 
-Under development:
+* https://github.com/liberusoftware/boilerplate - Boilerplate application using Laravel 11, PHP 8.3, Filament 3.2 and LiveWire 3.
 
-* https://github.com/laravel-liberu/boilerplate - Boilerplate application using Laravel 10
-* [https://github.com/liberu-ecommerce](https://github.com/liberu-ecommerce) - Ecommerce system written in Laravel 10 using PHP 8.2
-* https://github.com/liberu-genealogy - Family tree builder website written in Laravel 10 using PHP 8.2
-* https://github.com/liberu-genealogy/laravel-gedcom - GEDCOM reading and writing for Laravel
-* https://github.com/liberu-genealogy/php-gedcom - GEDCOM reading and writing for PHP 8.2
-* https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.2
+### Genealogy related projects
+* https://github.com/liberu-genealogy - Family tree builder website written in Laravel 11 using PHP 8.3 with Filament 3.2 and LiveWire 3.
+* https://github.com/liberu-genealogy/laravel-gedcom - GEDCOM reading and writing for Laravel.
+* https://github.com/liberu-genealogy/php-gedcom - GEDCOM reading and writing for PHP 8.3
+* https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.3
 
-Planning stage:
-
+### Other active projects
 * https://github.com/liberu-accounting
 * https://github.com/liberu-automation
 * https://github.com/liberu-cms
 * https://github.com/liberu-crm
+* https://github.com/liberu-ecommerce
 * https://github.com/liberu-maintenance
 * https://github.com/liberu-real-estate
+  
 ### Contributions
 
 We warmly welcome new contributions from the community! We believe in the power of collaboration and appreciate any involvement you'd like to have in improving our project. Whether you prefer submitting pull requests with code enhancements or raising issues to help us identify areas of improvement, we value your participation.
