@@ -1,5 +1,21 @@
 ### Description
-Liberu Content Management System is an advanced and comprehensive Content Management System software solution currently in development using Laravel 11 and PHP 8.3, Filament 3.2 and Livewire 3, poised to revolutionize the way businesses manage their financial operations. This state-of-the-art software is designed to meet the diverse needs of businesses across various industries, providing a seamless and efficient Content Management System experience.
+Welcome to Liberu CMS, our forward-thinking open-source project designed to empower content creators and administrators alike. Leveraging the dynamic capabilities of Laravel 11, PHP 8.3, Livewire 3, and Filament 3, Liberu CMS is not just a content management system – it's a versatile and intuitive platform crafted to elevate the creation, organization, and delivery of digital content.
+
+**Key Features:**
+
+1. **User-Friendly Content Creation:** Liberu CMS provides an intuitive and user-friendly interface for content creation. From articles and multimedia to dynamic pages, our project ensures that content creators can bring their ideas to life with ease.
+
+2. **Dynamic Livewire Interactions:** Built on Laravel 11 and PHP 8.3, Liberu CMS integrates Livewire 3 to deliver dynamic and real-time interactions. Enjoy seamless and responsive user experiences as you edit, preview, and publish content without the need for page refreshes.
+
+3. **Efficient Admin Panel:** Filament 3, our admin panel built on Laravel, adds an extra layer of efficiency to Liberu CMS. Administrators can manage users, customize settings, and oversee the entire content ecosystem with a powerful and intuitive interface.
+
+4. **Customizable Templates:** Tailor your website's appearance with customizable templates. Liberu CMS offers flexibility in design, allowing users to create unique and visually appealing websites that align with their brand and vision.
+
+5. **Scalability and Performance:** Whether you're managing a personal blog or a large-scale enterprise website, Liberu CMS is built for scalability and optimized performance. The project adapts to your content needs, ensuring a seamless experience for both creators and visitors.
+
+Liberu CMS is open source, released under the permissive MIT license. We invite developers, content creators, and organizations to contribute to the evolution of content management systems. Together, let's redefine the standards of digital content creation and management.
+
+Welcome to Liberu CMS – where innovation meets simplicity, and the possibilities of digital content creation are limitless. Join us on this journey to transform the way we create, manage, and deliver content to the world.
 
 ### Licensed under MIT, use for any personal or commercial project.
 
