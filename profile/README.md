@@ -1,4 +1,16 @@
-# [Liberu CMS](https://www.liberu.co.uk) ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
+# [Liberu CMS](https://www.liberusoftware.com) ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
+
+## Connect with Us
+
+<a href="https://wa.me/+441793200950"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.youtube.com/@liberusoftware"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://www.facebook.com/liberusoftware"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/liberusoftware"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.x.com/liberusoftware"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+<a href="https://www.linkedin.com/company/liberugroup"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.github.com/liberusoftware"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+
+## Technologies Used
 
 ![](https://img.shields.io/badge/PHP-8.4-informational?style=flat&logo=php&color=4f5b93)
 ![](https://img.shields.io/badge/Laravel-12-informational?style=flat&logo=laravel&color=ef3b2d)
@@ -7,22 +19,23 @@
 ![Socialite](https://img.shields.io/badge/Socialite-latest-brightgreen.svg)
 ![](https://img.shields.io/badge/Livewire-3.5-informational?style=flat&logo=Livewire&color=fb70a9)
 ![](https://img.shields.io/badge/JavaScript-ECMA2020-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Vue.js-3-informational?style=flat&logo=vue.js&color=42b883)
+![](https://img.shields.io/badge/Nuxt-3-informational?style=flat&logo=nuxt.js&color=00DC82)
+![](https://img.shields.io/badge/Docker-latest-informational?style=flat&logo=docker&color=2496ED)
+![](https://img.shields.io/badge/MySQL-latest-informational?style=flat&logo=mysql&color=4479A1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-# [Managed web hosting for our application packages](https://liberu.co.uk)
-
-
 ## Description
-Welcome to Liberu CMS, our forward-thinking open-source project designed to empower content creators and administrators alike. Leveraging the dynamic capabilities of Laravel 11, PHP 8.3, Livewire 3, and Filament 3, Liberu CMS is not just a content management system – it's a versatile and intuitive platform crafted to elevate the creation, organization, and delivery of digital content.
+
+Welcome to [Liberu CMS](https://www.liberusoftware.com), our forward-thinking open-source project designed to empower content creators and administrators alike. Built and maintained by [Liberu Software](https://www.liberusoftware.com), Liberu CMS leverages the dynamic capabilities of Laravel 12, PHP 8.4, Livewire 3, and Filament 4. It is a versatile and intuitive platform crafted to elevate the creation, organization, and delivery of digital content, and a powerful alternative to WordPress, Drupal, or OctoberCMS.
 
 **Key Features:**
 
 1. **User-Friendly Content Creation:** Liberu CMS provides an intuitive and user-friendly interface for content creation. From articles and multimedia to dynamic pages, our project ensures that content creators can bring their ideas to life with ease.
 
-2. **Dynamic Livewire Interactions:** Built on Laravel 11 and PHP 8.3, Liberu CMS integrates Livewire 3 to deliver dynamic and real-time interactions. Enjoy seamless and responsive user experiences as you edit, preview, and publish content without the need for page refreshes.
+2. **Dynamic Livewire Interactions:** Built on Laravel 12 and PHP 8.4, Liberu CMS integrates Livewire 3 to deliver dynamic and real-time interactions. Enjoy seamless and responsive user experiences as you edit, preview, and publish content without the need for page refreshes.
 
-3. **Efficient Admin Panel:** Filament 3, our admin panel built on Laravel, adds an extra layer of efficiency to Liberu CMS. Administrators can manage users, customize settings, and oversee the entire content ecosystem with a powerful and intuitive interface.
+3. **Efficient Admin Panel:** Filament 4, our admin panel built on Laravel, adds an extra layer of efficiency to Liberu CMS. Administrators can manage users, customize settings, and oversee the entire content ecosystem with a powerful and intuitive interface.
 
 4. **Customizable Templates:** Tailor your website's appearance with customizable templates. Liberu CMS offers flexibility in design, allowing users to create unique and visually appealing websites that align with their brand and vision.
 
@@ -32,6 +45,14 @@ Liberu CMS is open source, released under the permissive MIT license. We invite 
 
 Welcome to Liberu CMS – where innovation meets simplicity, and the possibilities of digital content creation are limitless. Join us on this journey to transform the way we create, manage, and deliver content to the world.
 
+## Repository Status
+
+| Repository | Release | Install | Tests | Docker | Coverage |
+|---|---|---|---|---|---|
+| [cms-laravel](https://github.com/liberu-cms/cms-laravel) | [![Release](https://img.shields.io/github/release/liberu-cms/cms-laravel.svg)](https://github.com/liberu-cms/cms-laravel/releases) | [![Install](https://github.com/liberu-cms/cms-laravel/actions/workflows/install.yml/badge.svg)](https://github.com/liberu-cms/cms-laravel/actions/workflows/install.yml) | [![Tests](https://github.com/liberu-cms/cms-laravel/actions/workflows/tests.yml/badge.svg)](https://github.com/liberu-cms/cms-laravel/actions/workflows/tests.yml) | [![Docker](https://github.com/liberu-cms/cms-laravel/actions/workflows/main.yml/badge.svg)](https://github.com/liberu-cms/cms-laravel/actions/workflows/main.yml) | [![Coverage](https://codecov.io/gh/liberu-cms/cms-laravel/branch/main/graph/badge.svg)](https://codecov.io/gh/liberu-cms/cms-laravel) |
+| [cms-nuxt](https://github.com/liberu-cms/cms-nuxt) | [![Release](https://img.shields.io/github/release/liberu-cms/cms-nuxt.svg)](https://github.com/liberu-cms/cms-nuxt/releases) | — | — | — | — |
+| [cms-filament](https://github.com/liberu-cms/cms-filament) | [![Release](https://img.shields.io/github/release/liberu-cms/cms-filament.svg)](https://github.com/liberu-cms/cms-filament/releases) | — | — | — | — |
+| [cms-old](https://github.com/liberu-cms/cms-old) | [![Release](https://img.shields.io/github/release/liberu-cms/cms-old.svg)](https://github.com/liberu-cms/cms-old/releases) | — | — | — | — |
 
 ## Our Projects
 
@@ -49,14 +70,21 @@ Welcome to Liberu CMS – where innovation meets simplicity, and the possibiliti
 * https://github.com/liberu-real-estate/real-estate-laravel
 * https://github.com/liberu-social-network/social-network-laravel
 
-### Licensed under MIT, use for any personal or commercial project.
+## Support Our Work
 
+Liberu CMS and all our open-source projects are developed and maintained by [Liberu Software](https://www.liberusoftware.com). Using our paid services directly supports our free and open-source software development work:
 
-### Contributions
+- 🌐 **[Liberu Group](https://www.liberugroup.com)** – Our parent company offering a wide range of technology services
+- 🛠️ **[Liberu Services](https://www.liberuservices.com)** – Professional services, consultancy, and custom development
+- 🖥️ **[Liberu Hosting](https://www.liberuhosting.com)** – Managed web hosting optimised for our application packages
+
+By choosing our paid services, you help fund the ongoing development of open-source tools that benefit the entire community.
+
+## Contributions
 
 We warmly welcome new contributions from the community! We believe in the power of collaboration and appreciate any involvement you'd like to have in improving our project. Whether you prefer submitting pull requests with code enhancements or raising issues to help us identify areas of improvement, we value your participation.
 
-If you have code changes or feature enhancements to propose, pull requests are a fantastic way to share your ideas with us. We encourage you to fork the project, make the necessary modifications, and submit a pull request for our review. Our team will diligently review your changes and work together with you to ensure the highest quality outcome.
+If you have code changes or feature enhancements to propose, **pull requests are always welcome**. We encourage you to fork the project, make the necessary modifications, and submit a pull request for our review. Our team will diligently review your changes and work together with you to ensure the highest quality outcome.
 
 However, we understand that not everyone is comfortable with submitting code directly. If you come across any issues or have suggestions for improvement, we greatly appreciate your input. By raising an issue, you provide valuable insights that help us identify and address potential problems or opportunities for growth.
 
@@ -65,7 +93,15 @@ Whether through pull requests or issues, your contributions play a vital role in
 We look forward to your involvement, and together, we can create a vibrant and thriving project. Thank you for considering contributing to our community!
 <!--/h-->
 
-### License
+## License
 
-This project is licensed under the MIT license, granting you the freedom to utilize it for both personal and commercial projects. The MIT license ensures that you have the flexibility to adapt, modify, and distribute the project as per your needs. Feel free to incorporate it into your own ventures, whether they are personal endeavors or part of a larger commercial undertaking. The permissive nature of the MIT license empowers you to leverage this project without any unnecessary restrictions. Enjoy the benefits of this open and accessible license as you embark on your creative and entrepreneurial pursuits.
+This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**, granting you the freedom to utilize it for both personal and commercial projects. The MIT license ensures that you have the flexibility to adapt, modify, and distribute the project as per your needs. Key benefits include:
+
+- ✅ **Freedom to use** – Use the software for any purpose, personal or commercial
+- ✅ **Freedom to modify** – Adapt and customise the source code to suit your needs
+- ✅ **Freedom to distribute** – Share the software and your modifications with others
+- ✅ **Minimal restrictions** – No copyleft requirements; compatible with proprietary projects
+- ✅ **No warranty liability** – Use at your own risk, with no obligations on the author
+
+Feel free to incorporate it into your own ventures, whether personal endeavours or part of a larger commercial undertaking. Enjoy the benefits of this open and accessible license as you embark on your creative and entrepreneurial pursuits.
 <!--/h-->
